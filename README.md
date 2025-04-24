@@ -172,7 +172,7 @@ Push to GitHub and check results in the **Actions** tab.
 
 👩‍💻 Author
 
-Built with ❤️ by [Your Name](https://github.com/yourusername)
+Built with ❤️ by [Your Name](https://github.com/PrakritiRawat)
 
 Contributions welcome! Feel free to fork and submit a PR.
 
